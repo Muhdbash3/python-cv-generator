@@ -20,7 +20,7 @@ d.add_paragraph(input('Tell us more  about your self '))
 
 d.add_heading('Work Experiences')
 print('Tell us your work experience')
-company = input('what is your company name? ')
+company = input('what is the name of your company? ')
 post_held = input('The post held ')
 Start_date = input("Start date ")
 End_date = input('Stop date ')
