@@ -37,8 +37,8 @@ while True:
         print('Tell us your work experience')
         company = input('what is your company name? ')
         post_held = input('The post held ')
-        Start_date = input("Start date ")
-        End_date = input('Stop date ')
+        Start_date = input("Start date... ")
+        End_date = input('Stop date... ')
 
         p = d.add_paragraph()
         p.add_run(company + ' ').bold = True
